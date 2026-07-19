@@ -1,0 +1,23 @@
+# Amazon EC2 Notes
+
+## What is EC2?
+Amazon Elastic Compute Cloud (EC2) is a web service that provides secure, scalable virtual servers in the AWS Cloud.
+
+## Features
+- Virtual machines (instances)
+- Multiple instance types
+- Auto Scaling support
+- Elastic IP addresses
+- Security Groups
+- EBS storage
+- AMIs (Amazon Machine Images)
+
+## EC2 Launch Steps
+1. Choose an AMI.
+2. Select an instance type.
+3. Configure instance details.
+4. Add storage.
+5. Configure Security Group.
+6. Review and launch.
+7. Download the key pair.
+8. Connect to the instance.
