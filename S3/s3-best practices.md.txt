@@ -1,0 +1,12 @@
+# Amazon S3 Best Practices
+
+1. Enable bucket versioning.
+2. Use least-privilege IAM permissions.
+3. Block public access unless required.
+4. Enable server-side encryption.
+5. Use lifecycle policies to reduce storage costs.
+6. Enable access logging for auditing.
+7. Choose the appropriate storage class.
+8. Use bucket policies carefully.
+9. Enable MFA Delete for critical buckets.
+10. Regularly monitor bucket access using CloudTrail and CloudWatch.

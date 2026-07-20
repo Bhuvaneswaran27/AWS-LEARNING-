@@ -1,0 +1,23 @@
+# Amazon S3 Notes
+
+## What is Amazon S3?
+Amazon Simple Storage Service (S3) is an object storage service that provides high durability, scalability, and security for storing data.
+
+## Features
+- Object storage
+- Buckets and objects
+- Versioning
+- Lifecycle policies
+- Encryption
+- Static website hosting
+- Cross-Region Replication (CRR)
+- Storage classes
+
+## Common Storage Classes
+- S3 Standard
+- S3 Intelligent-Tiering
+- S3 Standard-IA
+- S3 One Zone-IA
+- S3 Glacier Instant Retrieval
+- S3 Glacier Flexible Retrieval
+- S3 Glacier Deep Archive
