@@ -1,0 +1,12 @@
+# EC2 Best Practices
+
+1. Use IAM roles instead of storing AWS credentials.
+2. Follow the principle of least privilege.
+3. Keep Security Groups restrictive.
+4. Regularly update the operating system.
+5. Use EBS snapshots for backups.
+6. Monitor instances using Amazon CloudWatch.
+7. Enable detailed monitoring for critical workloads.
+8. Use Auto Scaling for high availability.
+9. Stop or terminate unused instances to reduce costs.
+10. Use key pairs securely and never share private keys.
