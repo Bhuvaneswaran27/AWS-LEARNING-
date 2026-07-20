@@ -1,0 +1,28 @@
+# Amazon RDS Notes
+
+## What is Amazon RDS?
+Amazon Relational Database Service (RDS) is a managed database service that makes it easy to set up, operate, and scale relational databases in AWS.
+
+## Supported Databases
+- MySQL
+- PostgreSQL
+- MariaDB
+- Oracle
+- Microsoft SQL Server
+
+## Features
+- Automated backups
+- Multi-AZ deployment
+- Read Replicas
+- Automatic patching
+- Monitoring with CloudWatch
+- High availability
+- Encryption
+- Snapshots
+
+## Benefits
+- Easy database management
+- High availability
+- Improved security
+- Scalability
+- Reduced operational overhead

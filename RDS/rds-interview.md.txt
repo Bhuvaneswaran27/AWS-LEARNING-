@@ -1,0 +1,12 @@
+# Amazon RDS Interview Questions
+
+1. What is Amazon RDS?
+2. Which database engines are supported by Amazon RDS?
+3. What is the difference between Multi-AZ and Read Replica?
+4. What is an RDS snapshot?
+5. What are automated backups in RDS?
+6. How do you secure an RDS instance?
+7. What is the purpose of a DB subnet group?
+8. Can you resize an RDS instance?
+9. What is the difference between RDS and Amazon Aurora?
+10. How do you monitor an RDS database?

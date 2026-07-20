@@ -1,0 +1,12 @@
+# Amazon RDS Best Practices
+
+1. Enable automated backups.
+2. Use Multi-AZ deployments for production databases.
+3. Use Read Replicas for read-heavy workloads.
+4. Enable storage encryption.
+5. Monitor performance with Amazon CloudWatch.
+6. Apply the principle of least privilege using IAM.
+7. Keep the database engine updated.
+8. Place RDS instances in private subnets.
+9. Take manual snapshots before major changes.
+10. Choose the correct instance type and storage based on workload.
