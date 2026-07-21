@@ -1,0 +1,12 @@
+# ELB & Auto Scaling Best Practices
+
+1. Use Application Load Balancer for web applications.
+2. Enable Health Checks.
+3. Deploy across multiple Availability Zones.
+4. Use Auto Scaling with ELB.
+5. Configure CloudWatch alarms.
+6. Use Launch Templates instead of Launch Configurations.
+7. Enable access logs for ELB.
+8. Use HTTPS for secure communication.
+9. Set appropriate minimum and maximum instance limits.
+10. Regularly test Auto Scaling policies.
