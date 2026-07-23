@@ -1,0 +1,17 @@
+# AWS Config Notes
+
+## What is AWS Config?
+AWS Config is a service that records AWS resource configurations and tracks configuration changes over time.
+
+## Features
+- Configuration history
+- Resource inventory
+- Compliance evaluation
+- Configuration snapshots
+- Change notifications
+
+## Benefits
+- Continuous compliance
+- Configuration auditing
+- Resource tracking
+- Security monitoring
